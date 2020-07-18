@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+# https://coinmarketcap.com
 import requests
 from bs4 import BeautifulSoup
 import time
